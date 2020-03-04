@@ -6,7 +6,7 @@ Here you will find the explanation of the project and how to run in on your mach
 
 - For the database I used MySql so if you want to test the app you need to create a MySQL database with the name: bunny_db
     - then, import the bunny_db.sql
-- For the data in the database I used Faker which is a PHP library that generates fake data
+- For the data in the database I used Faker which is a PHP library that generates fake data to bootstrap the database
 
 - For the back-end [bunnyBack](https://github.com/yassssser/Bunny-Studio-Backend) I create a rest api with symfony using ApiPlatfome
     - to test it : 
